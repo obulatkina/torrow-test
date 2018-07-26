@@ -1,9 +1,13 @@
 # torrow-test
 
 `TestEmailAuthorizeInvalidCode` - негативная авторизация по электронной почте 
+
 `TestPositiveEmailAuthorize` - позитивная авторизация по электронной почте
+
 `TestPhoneAuthorizeInvalidCode` - негативная авторизация по номеру телефона
+
 `TestPositivePhoneAuthorize` - позитивная авторизация по номеру телефона
+
 `TestTimeOutWarning` - ожидание, пока действие полученного кода истечет 
 
 ### Негативная авторизация по электронной почте:
